@@ -1,7 +1,7 @@
 
 ## Built With
 
-My personal portfolio Amaresh Kambhampati which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://portfolio-amaresh-kambhampatis-projects.vercel.app/" target="_blank">Amaresh Kambhampati</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
